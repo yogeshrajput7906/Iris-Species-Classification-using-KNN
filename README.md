@@ -59,15 +59,6 @@ KNN performed consistently well across different `K` values on this dataset.
 
 ---
 
-## Sample Visualizations
-
-### Decision Boundary
-![Decision Boundary](path/to/your/plot.png)
-
-> Shows how KNN with `K=5` separates Iris species using first two features.
-
----
-
 ## Tech Stack
 
 - **Python**
